@@ -1,12 +1,1 @@
-// Product page product slide starts here 
-
-const productPlusPg = document.querySelector('#product-plus-pg');
-const productMinusPg = document.querySelector('#product-minus-pg');
-const productSliderPg = document.querySelector('#product-slider-pg');
-
-productPlusPg.addEventListener('click', () => {
-    productSliderPg.scrollLeft += 300;
-})
-productMinusPg.addEventListener('click', () => {
-    productSliderPg.scrollLeft -= 300;
-})
+const _0x4e63a5=_0x5bb4;(function(_0x9e9bd7,_0x39c524){const _0x4e9f56=_0x5bb4,_0x3396e4=_0x9e9bd7();while(!![]){try{const _0x4a5efc=-parseInt(_0x4e9f56(0x120))/0x1+-parseInt(_0x4e9f56(0x123))/0x2*(parseInt(_0x4e9f56(0x11a))/0x3)+parseInt(_0x4e9f56(0x115))/0x4*(-parseInt(_0x4e9f56(0x118))/0x5)+parseInt(_0x4e9f56(0x121))/0x6+-parseInt(_0x4e9f56(0x122))/0x7*(-parseInt(_0x4e9f56(0x11f))/0x8)+-parseInt(_0x4e9f56(0x119))/0x9+-parseInt(_0x4e9f56(0x117))/0xa*(-parseInt(_0x4e9f56(0x125))/0xb);if(_0x4a5efc===_0x39c524)break;else _0x3396e4['push'](_0x3396e4['shift']());}catch(_0x2385a4){_0x3396e4['push'](_0x3396e4['shift']());}}}(_0x32b6,0xf0143));function _0x5bb4(_0x2ff46f,_0x326cde){const _0x32b62f=_0x32b6();return _0x5bb4=function(_0x5bb4f3,_0x5efaf5){_0x5bb4f3=_0x5bb4f3-0x115;let _0x3b1a03=_0x32b62f[_0x5bb4f3];return _0x3b1a03;},_0x5bb4(_0x2ff46f,_0x326cde);}const productPlusPg=document[_0x4e63a5(0x11b)](_0x4e63a5(0x116)),productMinusPg=document[_0x4e63a5(0x11b)](_0x4e63a5(0x11e)),productSliderPg=document['querySelector'](_0x4e63a5(0x11d));productPlusPg[_0x4e63a5(0x11c)](_0x4e63a5(0x126),()=>{const _0x7ce09d=_0x4e63a5;productSliderPg[_0x7ce09d(0x124)]+=0x12c;}),productMinusPg['addEventListener'](_0x4e63a5(0x126),()=>{const _0x26cc81=_0x4e63a5;productSliderPg[_0x26cc81(0x124)]-=0x12c;});function _0x32b6(){const _0x1f5eb0=['querySelector','addEventListener','#product-slider-pg','#product-minus-pg','64RXvpPU','916433kJLPtU','2607342JjxhuQ','559139eNYpkn','782btnaaN','scrollLeft','88OxYcsd','click','20NlyhJS','#product-plus-pg','5031940ibrMJy','1840025pcfzpX','3418641oeqEHn','7515VEVQLY'];_0x32b6=function(){return _0x1f5eb0;};return _0x32b6();}
